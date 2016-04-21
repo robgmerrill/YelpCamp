@@ -6,17 +6,17 @@ var data = [
     {
         name: "Cloud's Rest", 
         image: "https://farm4.staticflickr.com/3795/10131087094_c1c0a1c859.jpg",
-        description: "blah blah blah"
+        description: "this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares."
     },
     {
         name: "Desert Mesa", 
         image: "https://farm4.staticflickr.com/3859/15123592300_6eecab209b.jpg",
-        description: "blah blah blah"
+        description: "this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares."
     },
     {
         name: "Canyon Floor", 
         image: "https://farm1.staticflickr.com/189/493046463_841a18169e.jpg",
-        description: "blah blah blah"
+        description: "this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares. this is where I am going to put a lot about the campsite. People will see this and everyone will want to rent that space. Owners of campsites will become overnight multibillionares."
     }
 ]
 
